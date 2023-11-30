@@ -4,4 +4,4 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 resources:
   - namespace.yml
   - placementrule.yml
-  - policies/AC-2
+  - policies/AC-2/
