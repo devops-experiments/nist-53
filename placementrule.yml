@@ -13,4 +13,4 @@ spec:
       - key: env
         operator: In
         values:
-        - "dev"
+        - "devs"
