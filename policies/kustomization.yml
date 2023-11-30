@@ -6,6 +6,6 @@ resources:
   - AC-3/group-policy.yml
   - AC-3/role-binding-policy.yml
   - AC-3/role-policy.yml
-  - AC-6-1/disapplowed-role-policy.yml
+  - AC-6-1/disallowed-role-policy.yml
   - AC-6-2/disallow-self-provisioner-policy.yml
   - CA-2/compliance-operator-policy.yml
