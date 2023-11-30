@@ -9,3 +9,9 @@ resources:
   - AC-6-1/disallowed-role-policy.yml
   - AC-6-2/disallow-self-provisioner-policy.yml
   - CA-2/compliance-operator-policy.yml
+  - CM-6/compliance-operator-moderate-scan-policy.yml
+  - SC-4/restricted-scc-policy.yml
+  - SC-6/limitrange-policy.yml
+  - SC-7/networkpolicy-denyall-policy.yml
+  - SC-28/etcdencryption-policy.yml
+  - SI-4/image-policy.yml
