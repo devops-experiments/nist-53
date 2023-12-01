@@ -10,7 +10,7 @@ spec:
     status: "True"
   clusterSelector:
     matchExpressions:
-      - key: env
+      - key: name
         operator: In
         values:
-        - "devs"
+        - "arodev"
